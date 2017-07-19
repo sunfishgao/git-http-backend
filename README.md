@@ -9,7 +9,7 @@ utilising the power of Go.
 
 Dependencies
 ========================
-* Go - http://golang.org
+* Go - http://golang.org 
 * Git >= 1.7
 
 Quick Start
